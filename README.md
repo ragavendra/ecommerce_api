@@ -86,7 +86,7 @@ SemVerTag.
 * [Project Website](https://github.com/ragavendra/ecommerce_api) - Additional documentation,
 news, and links to other resources.
 
-* [Contributing](https://github.com/ragavendra/) - Find a bug? Need
+* [Contributing](https://github.com/ragavendra/ecommerce_api/CONTRIBUTING.md) - Find a bug? Need
 help? Have a patch?
 * [Issue tracker](https://github.com/ragavendra/ecommerce_api/issues)
 * [Twitter](https://twitter.com/ragavendra
