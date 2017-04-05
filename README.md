@@ -24,52 +24,12 @@ Shutting it down
 
 The following Ruby versions are officially supported:
 <dl>
-  <dt>Ruby 2.2</dt>
-    <dd>
-        2.2 is fully supported and recommended. There are currently no plans to
-	    drop official support for it.
-	      </dd>
-
-	        <dt>Rubinius</dt>
-		  <dd>
-		      Rubinius is officially supported (Rubinius >= 2.x). It is recommended to
-		          <tt>gem install puma</tt>.
-			    </dd>
-
-			      <dt>JRuby</dt>
-			        <dd>
-				    The latest stable release of JRuby is officially supported. It is not
-				        recommended to use C extensions with JRuby. It is recommended to
-					    <tt>gem install trinidad</tt>.
-					      </dd>
-					      </dl>
-
-					      Versions of Ruby prior to 2.2.2 are no longer supported as of Sinatra 2.0.
-
-					      We also keep an eye on upcoming Ruby versions.
-
-					      The following Ruby implementations are not officially supported but still are
-					      known to run Sinatra:
-
-					      * Older versions of JRuby and Rubinius
-					      * Ruby Enterprise Edition
-					      * MacRuby, Maglev, IronRuby
-					      * Ruby 1.9.0 and 1.9.1 (but we do recommend against using those)
-
-					      Not being officially supported means if things only break there and not on a
-					      supported platform, we assume it's not our issue but theirs.
-
-					      We also run our CI against ruby-head (future releases of MRI), but we
-					      can't guarantee anything, since it is constantly moving. Expect upcoming
-					      2.x releases to be fully supported.
-
-					      Sinatra should work on any operating system supported by the chosen Ruby
-					      implementation.
-
-					      If you run MacRuby, you should `gem install control_tower`.
-
-					      Sinatra currently doesn't run on Cardinal, SmallRuby, BlueRuby or any
-					      Ruby version prior to 2.2.
+<dt>Ruby 2.2</dt>
+<dd>
+2.2 is fully supported and recommended. There are currently no plans to
+drop official support for it.
+</dd>
+</dl>
 
 ## The Bleeding Edge
 
