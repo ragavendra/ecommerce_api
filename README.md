@@ -1,4 +1,4 @@
-# Coding challenge - Duberex app
+# eCommerce API app
 
 ## Installation
 
