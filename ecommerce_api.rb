@@ -132,7 +132,7 @@ class EcommerceApp < Sinatra::Application
 
 	get '/about' do
 		haml :about
-		"About JungleFarms"
+		"About JungleFarms hey"
 	end
 	
 	get '/raga/:name' do

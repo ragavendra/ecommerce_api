@@ -8,6 +8,7 @@ gem 'rack'
 gem 'haml'
 gem 'pony'
 gem 'rb-readline'
+gem 'pg'
 
 #gem 'webrick'
 gem 'byebug'
